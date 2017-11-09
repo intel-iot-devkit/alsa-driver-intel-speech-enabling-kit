@@ -1,0 +1,1 @@
+# alsa-driver-intel-speech-enabling-kit
